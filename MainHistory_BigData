@@ -1,0 +1,14 @@
+Project- Creating Cloud computing infrastructure
+and Processing Big Data.
+maintain new, updated & history records in the
+table.
+final table inserted into the enriched layer in the
+hive.
+Fully pipeline handled using shell script.
+Extracted the data from MySQL into HDFS using the
+SQOOP.
+Created Hive tables, dynamic partitions, and
+buckets for sampling and working on them using
+Hive QL.
+These data get transferred into 3 different Hive
+tables based on each’s logic.
